@@ -8,7 +8,7 @@ I am a skilled Scala/Java developer with over 15 years of commercial experience,
 **Scala, Java, Spring, UML, Patterns, Agile (Scrum/XP/Kanban), Test Driven Development(TDD), Behaviour Driven Development(BDD), Continuous Integration**
 
 ## Employment History
-### Bank Of America Merrill Lynch; May 2012 -- Present
+### Bank Of America Merrill Lynch; May 2012 - Present
 *Senior Developer, Contract*
 
 **Scala, TDD/BDD, Agile, Python, event sourcing, CQRS**  
@@ -33,3 +33,10 @@ I worked in a small agile team on a Fixed Income Portfolio Management system. Th
 
 The system was implemented as a series of server side components using Spring MVC for simple “plain old xml” services hosted in a Jetty container using JDBC, XmlBeans and Spring.
 Non-project work included the mentoring of two junior team members. I was also on the corporate Web Services Governance committee, which involved setting policies around project inception and assurance of quality of service.
+
+### BNP Paribas; August 2004 – November 2006
+*Senior Analyst Programmer (Permanent)*
+
+**Java J2EE, Spring (IoC, JDBC, AOP, JMS etc). Sybase (ASE and IQ). Web Services. Mule. Tomcat. Agile/XP**
+
+Senior analyst-programmer working on a bank-wide Market Risk system. We were a fully XP team, working to a three week iteraton cycle. Mostly project-based work migrating legacy applications to Java and C# system. Project lead on first phase of adoption of enterprise service bus technology (Mule) designing event driven application to track dynamic dependency fulfilment. Appointed as java technical lead for the team, I was responsible for code quality, setting up the continuous integration and encouraging the adoption of test-driven development. Primarily developing middle-tier Java, using the Spring framework, running inside a Tomcat server. 
