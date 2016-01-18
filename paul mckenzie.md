@@ -21,9 +21,9 @@ The Boost project at Barclays aims to improve the process of onboarding new Weal
 
 _Senior Developer, contract_
 
-**Scala, TDD/BDD, Agile, Python, event sourcing, CQRS**
+**Scala, TDD/BDD, Agile, Kafka, Python, event sourcing, CQRS**
 
-Senior developer working on Olympus, an inventory management system showing depot positions and failed trades, for the securities back office. The application was written in Scala and we adopted an event-sourced, domain-driven, CQRS-style architecture. My responsibilities also included "quality control" reviews for my team and other teams and contributing to the analysis and design process with our product owners and other stake- holders. The team adopted a Kanban approach and was very focussed on test-driven and behaviour-driven development. I was also involved in maintaining the code-quality through "clean-code" practices. We used Cucumber/Scala-Test/Jenkins for BDD and CI
+Senior developer working on Olympus, an inventory management system showing depot positions and failed trades, for the securities back office. The application was written in Scala, using Kafka, and we adopted an event-sourced, domain-driven, CQRS-style architecture. My responsibilities also included "quality control" reviews for my team and other teams and contributing to the analysis and design process with our product owners and other stake- holders. The team adopted a Kanban approach and was very focussed on test-driven and behaviour-driven development. I was also involved in maintaining the code-quality through "clean-code" practices. We used Cucumber/Scala-Test/Jenkins/Ansible for BDD, CI and deployment
 
 ### HSBC; April 2009 - February 2012
 
